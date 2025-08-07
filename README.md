@@ -2,6 +2,8 @@
 
 Online demo link: https://onlylonger.github.io/rspack-mf-mf-hub/
 
+![Record.gif](./assets/record.gif)
+
 Plugin-a source link: https://github.com/Onlylonger/rspack-mf-mf-plugin.  
 Plugin-a Online demo link: https://onlylonger.github.io/rspack-mf-mf-plugin
 
