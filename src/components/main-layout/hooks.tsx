@@ -7,12 +7,12 @@ import {
   type UIMatch,
 } from "react-router";
 import { useEffect, useMemo, useRef, useState } from "react";
-import { Activity } from "../Activity";
 import { useMenus } from "../aside/store";
 import type { To } from "react-router";
 import { loadRemote } from "@module-federation/enhanced/runtime";
 import { useTabs } from "../tabs/store";
 import { cachedRoute } from "./route-cache";
+import { Activity } from "@shilong/react";
 
 export const useCurMatch = () => {
   const match = useMatches() as UIMatch<unknown, { menuKey?: string }>[];

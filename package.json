@@ -16,6 +16,7 @@
     "@module-federation/enhanced": "^0.17.1",
     "@mui/icons-material": "^7.2.0",
     "@mui/material": "^7.2.0",
+    "@shilong/react": "^0.0.1",
     "@shilong/utils": "^0.0.9",
     "lodash-es": "^4.17.21",
     "react": "^19.1.1",
